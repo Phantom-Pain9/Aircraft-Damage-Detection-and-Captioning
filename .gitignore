@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.DS_Store
+*.tmp
+venv/
+.venv/
+env/
+*.tar
+aircraft_damage_dataset_v1/
+*.log
